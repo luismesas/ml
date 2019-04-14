@@ -1,0 +1,8 @@
+pillow
+pypiwin32
+numpy
+opencv-python
+shortuuid
+tensorflow
+keras
+scipy
