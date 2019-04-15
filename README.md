@@ -1,2 +1,2 @@
 # ml
-docker image for paperspace
+docker image for training ml models
